@@ -28,9 +28,16 @@ I love turning ideas into code. I enjoy learning through real-world projects and
 ### Badges
 
 <b>Top Repositories</b>
+## 🧑‍💻 Projects
 
-<div width="100%" align="center"><a href="https://github.com/CavidMecidov/announcement-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CavidMecidov&repo=announcement-backend&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/CavidMecidov/sosialmedia" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CavidMecidov&repo=sosialmedia&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### [socialmedia-backend](https://github.com/cavidmecidov/socialmedia-backend)
+A backend REST API for a basic social media app built with Spring Boot. Includes features like user authentication (JWT), follow system, post/like functionalities, and more.
 
-<br /><br /><br /><br /><br />
+### [announcement-backend](https://github.com/cavidmecidov/announcement-backend)
+A Spring Boot backend for managing announcements. Allows users to create, view, and filter announcements in a scalable way.
+
+### [freelancer-platform](https://github.com/cavidmecidov/freelancer-platform)
+A freelance job-matching backend where active users are matched in real-time with clients. Features include user portfolio, activity status, and instant job connect.
+
 
 <div width="100%" align="center"><a href="https://github.com/CavidMecidov/freelancer-platform" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CavidMecidov&repo=freelancer-platform&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
