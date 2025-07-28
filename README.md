@@ -27,17 +27,6 @@ I love turning ideas into code. I enjoy learning through real-world projects and
 
 ### Badges
 
-<b>Top Repositories</b>
-## 🧑‍💻 Projects
+<b>My GitHub Stats</b>
 
-### [socialmedia-backend](https://github.com/cavidmecidov/socialmedia-backend)
-A backend REST API for a basic social media app built with Spring Boot. Includes features like user authentication (JWT), follow system, post/like functionalities, and more.
-
-### [announcement-backend](https://github.com/cavidmecidov/announcement-backend)
-A Spring Boot backend for managing announcements. Allows users to create, view, and filter announcements in a scalable way.
-
-### [freelancer-platform](https://github.com/cavidmecidov/freelancer-platform)
-A freelance job-matching backend where active users are matched in real-time with clients. Features include user portfolio, activity status, and instant job connect.
-
-
-<div width="100%" align="center"><a href="https://github.com/CavidMecidov/freelancer-platform" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CavidMecidov&repo=freelancer-platform&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+<a href="http://www.github.com/CavidMecidov"><img src="https://github-readme-stats.vercel.app/api?username=CavidMecidov&show_icons=true&hide=&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="CavidMecidov's GitHub stats" /></a>
